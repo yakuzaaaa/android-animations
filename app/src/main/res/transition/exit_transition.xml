@@ -1,0 +1,15 @@
+<transitionSet xmlns:android="http://schemas.android.com/apk/res/android"
+    android:transitionOrdering="together"
+    android:duration="@android:integer/config_longAnimTime">
+    <fade>
+        <targets>
+            <target android:excludeId="@android:id/statusBarBackground" />
+            <target android:excludeId="@android:id/navigationBarBackground" />
+        </targets>
+    </fade>
+    <slide android:slideEdge="bottom">
+        <targets>
+            <target android:targetId="@id/botSlide" />
+        </targets>
+    </slide>
+</transitionSet>

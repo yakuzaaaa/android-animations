@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+        <item name="android:windowContentTransitions">true</item>
+
+
+    </style>
+    <style name="AppTheme.first" parent="@style/AppTheme">
+        <item name="android:windowContentTransitions">true</item>
+
+
+    </style>
+
+    <style name="AppTheme.second" parent="@style/AppTheme">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@transition/enter_transition</item>
+        <item name="android:windowReturnTransition">@transition/exit_transition</item>
+        <item name="android:fragmentSharedElementEnterTransition">@transition/change_image_transform</item>
+        <item name="android:fragmentSharedElementReturnTransition">@transition/change_image_transform</item>
+
+    </style>
+    <style name="AppTheme.third" parent="@style/AppTheme">
+        <item name="android:windowContentTransitions">true</item>
+
+    </style>
+    <style name="AppTheme.fourth" parent="@style/AppTheme">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowEnterTransition">@transition/enter_transition</item>
+        <item name="android:windowReturnTransition">@transition/exit_transition</item>
+        <item name="android:fragmentSharedElementEnterTransition">@transition/change_image_transform</item>
+        <item name="android:fragmentSharedElementReturnTransition">@transition/change_image_transform</item>
+
+    </style>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/pre-dexed/debug/classes-84f04e2d2efd6b2b050e9f591f550295716bf496.jar" />
+    </item>
+    <item
+        jar="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/pre-dexed/debug/classes-9456616148fb9db3cfc41fce95fe2190a1878c49.jar" />
+    </item>
+    <item
+        jar="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/pre-dexed/debug/classes-d4c1dc58b7a00edcca27928905df9aa17496a52e.jar" />
+    </item>
+    <item
+        jar="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-57f9c3ded21d26e6d4ea39753d0cbb10c32ac8c4.jar" />
+    </item>
+    <item
+        jar="/home/nilarnab/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/nilarnab/code/google-services/android/Android-Material-Animations-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-72c22e1f1424d376b6fb6e8da6a14ccce40dad81.jar" />
+    </item>
+
+</items>
